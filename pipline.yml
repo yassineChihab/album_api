@@ -5,7 +5,7 @@ resources:
 - repo: self
 
 variables:  
-  IMAGE_NAME: yassine123/album-backend-api
+  IMAGE_NAME: yasisne123/album-backend-api
   CONTAINERAPPS_APP: album-backend-api
   CONTAINERAPPS_ENVIRONMENT: aca-environment2
   RESOURCE_GROUP: containerapps-azure-pipelines
