@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1lfQ0ITnDOqPxw6C1A4YWrqGzW0qDAjkYgBzYhBHNK0=",
+  "Source": "albumapi_csharp",
+  "BasePath": "_content/albumapi_csharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
